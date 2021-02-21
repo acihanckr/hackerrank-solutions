@@ -12,4 +12,4 @@ Each challange is in its folder with the same name (or very close)
 to the challange name in its website. 
 
 To check the original problems: https://www.hackerrank.com/
-Lastly, Kudos to the challanges authors.
+Lastly, Kudos to the challange authors.
