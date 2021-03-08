@@ -1,0 +1,6 @@
+Lang: Python
+Category: Regex and Parsing
+Title: Re.split()
+Difficulty: Easy
+Author: [deleted]
+Max Score: 20
