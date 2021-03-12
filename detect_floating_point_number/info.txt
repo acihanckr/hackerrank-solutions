@@ -1,6 +1,0 @@
-Lang: Python
-Category: Regex and Parsing
-Title: Detect Floating Point Number
-Difficulty: Easy
-Author: [deleted]
-Max Score: 20

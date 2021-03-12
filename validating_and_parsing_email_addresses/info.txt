@@ -1,6 +1,0 @@
-Lang: Python
-Category: Python
-Sub-Category: Regex and Parsing
-Difficulty: Easy
-Author: [deleted]
-Max Score: 20
