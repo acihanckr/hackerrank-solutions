@@ -14,5 +14,3 @@ to the challange name in its website.
 To check the original problems: https://www.hackerrank.com/
 Lastly, Kudos to the challange authors.
 
-TODO: 1) Add a unittester to be test the codes in local machine with test cases.
-      2) Add test cases generator for the challanges (whenever possible).
